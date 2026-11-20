@@ -144,6 +144,7 @@ const (
 	HereticsMoltenBlade                           // hereticsmoltenblade
 	HuntersBow                                    // huntersbow
 	HuntersPath                                   // hunterspath
+	HymnOfTheMaelstrom                            // hymnofthemaelstrom
 	IbisPiercer                                   // ibispiercer
 	IronPoint                                     // ironpoint
 	IronSting                                     // ironsting
@@ -400,6 +401,7 @@ var _WeaponNames = [...]string{
 	"hereticsmoltenblade",
 	"huntersbow",
 	"hunterspath",
+	"hymnofthemaelstrom",
 	"ibispiercer",
 	"ironpoint",
 	"ironsting",
@@ -656,6 +658,7 @@ var _WeaponValues = [...]Weapon{
 	HereticsMoltenBlade,
 	HuntersBow,
 	HuntersPath,
+	HymnOfTheMaelstrom,
 	IbisPiercer,
 	IronPoint,
 	IronSting,
